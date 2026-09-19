@@ -1,0 +1,10 @@
+{
+  "recipient": "+00000000000",
+  "type": "template",
+  "template": {
+    "name": "example_template",
+    "language": "en",
+    "parameters": []
+  },
+  "synthetic": true
+}
