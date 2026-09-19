@@ -1,0 +1,7 @@
+{
+  "event_id": "example-event-001",
+  "type": "message.status",
+  "message_id": "provider-message-example",
+  "status": "delivered",
+  "synthetic": true
+}
